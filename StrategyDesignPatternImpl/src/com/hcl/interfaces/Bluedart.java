@@ -1,6 +1,6 @@
 package com.hcl.interfaces;
 
-public class Bluedart implements Courier{
+public final class Bluedart implements Courier{
 
 	@Override
 	public String deliver(int orderId) {

@@ -1,6 +1,6 @@
 package com.hcl.interfaces;
 
-public class Fedx implements Courier {
+public final class Fedx implements Courier {
 
 	@Override
 	public String deliver(int orderId) {

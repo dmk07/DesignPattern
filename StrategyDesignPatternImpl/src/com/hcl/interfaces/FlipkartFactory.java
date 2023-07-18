@@ -1,6 +1,6 @@
 package com.hcl.interfaces;
 
-public class FlipkartFactory {
+public final class FlipkartFactory {
 
 	
 	public static Flipkart getCourier(String type) throws Exception

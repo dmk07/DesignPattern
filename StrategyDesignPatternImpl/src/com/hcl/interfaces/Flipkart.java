@@ -3,7 +3,7 @@ package com.hcl.interfaces;
 import java.util.Arrays;
 import java.util.Random;
 
-public class Flipkart {
+public final class Flipkart {
 
 	private Courier courier;
 

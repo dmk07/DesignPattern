@@ -1,6 +1,6 @@
 package com.hcl.interfaces;
 
-public class DTDC implements Courier {
+public  final class DTDC implements Courier {
 
 	@Override
 	public String deliver(int orderId) {
